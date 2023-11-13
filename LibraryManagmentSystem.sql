@@ -1,2 +1,2 @@
-show databases;
-use project;
+create database project;
+show databases; 
